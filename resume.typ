@@ -13,7 +13,7 @@
 #resume_heading[Education]
 #edu_item(
   name: "Georgia Institute of Technology",
-  degree: "B.S. in Computer Science - Major GPA 4.0/4.0",
+  degree: "B.S. in Computer Science - GPA 4.0/4.0",
   location: "Atlanta, GA",
   date: "Expected Graduation May 2026",
   [Concentrating in _Information Internetworks_ & _Intelligence_],
@@ -26,7 +26,7 @@
   role: "Data Structures and Algorithms Teaching Assistant",
   location: "Atlanta, GA",
   date: "Jan. 2025 - Present",
-  [Collaborate with a team of 50 TAs to support the academic success of _1,000+ students_ each semester.],
+  [Collaborate with a team of 50 TAs to support the academic success of 1,000+ students each semester.],
   [Lead 75-minute recitation sessions weekly, reinforcing lecture concepts and facilitating problem-solving.],
   [Conduct office hours to provide personalized guidance on coursework, lecture materials, and exam content.],
 )
@@ -43,23 +43,23 @@
   role: "Software Developer",
   location: "Atlanta, GA",
   date: "Aug. 2024 - Dec. 2024",
-  [Developing the digital twin platform for a sustainable bio-plastic bottling plant in the Bahamas],
-  [Leading software subgroup to create to develop business engagement platform using _Next.js_],
+  [Developing the digital twin platform for a sustainable bio-plastic bottling plant in the Bahamas.],
+  [Leading software subgroup to create to develop business engagement platform using _Next.js_.],
 )
 #exp_item(
   name: "Candles by Korina",
   role: "Founder/CEO",
   location: "Greensburg, PA",
   date: "May 2020 - Present",
-  [Responsible for full business management: cost analysis, inventory, marketing, production, and customer service],
-  [Earned Etsy _bestseller_ title and _50+ 5-star reviews_],
+  [Responsible for full business management: cost analysis, inventory, marketing, production, and customer service.],
+  [Earned Etsy bestseller title and 50+ 5-star reviews.],
 )
 
 #resume_heading[Projects]
 #project_item(
   name: "Restaurant Reservation System",
   skills: "Java, Javalin, Pebble templates, Bootstrap, HTML, CSS",
-  [Implemented a fully functioning full-stack restaurant reservation system app using object and design principles],
+  [Implemented a fully functioning full-stack restaurant reservation system app using object and design principles.],
 )
 #project_item(
   name: "Spotify Listening Statistics",
@@ -72,17 +72,17 @@
   name: "Georgia Tech Grand Challenges",
   role: "Paid Program Facilitator",
   location: "Atlanta, GA",
-  date: "Jun. 2023 - Present",
-  [Mentor and guide teams of students in a year-long leadership program focused on innovative problem solving],
-
+  date: "Aug. 2024 - Present",
+  [Mentor 200+ students and manage 20+ team coaches, guiding teams in creating impactful year-long projects focused on solving United Nations SDGs.],
+  [Collaborate with program founders to continuously improve the curriculum and support team coaches.]
 )
 #exp_item(
   name: "Meet Your Neighbors Non-Profit Organization",
   role: "Founder/CEO",
   location: "International/Remote",
   date: "May 2021 - Aug. 2023",
-  [Facilitated cultural global exchange, hosting events/service projects for over _100 members_ worldwide],
-  [Led meetings and managed team of 20, website, social media, and secured sponsorships from Hershey and ACEI],
+  [Facilitated global cultural exchange by hosting events and service projects for 100+ members across 5 continents.],
+  [Led meetings and managed team of 20, website, social media, and secured sponsorships from Hershey and ACEI.],
 )
 #resume_heading[Technical Skills]
 #skill_item(
