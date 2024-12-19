@@ -22,6 +22,12 @@
 
 #resume_heading[Experience]
 #exp_item(
+  name: "Meta",
+  role: "Software Engineer Intern",
+  location: "Menlo Park, CA",
+  date: "May. 2025 - Aug. 2025",
+)
+#exp_item(
   name: "Georgia Institute of Technology – College of Computing",
   role: "Data Structures and Algorithms Teaching Assistant",
   location: "Atlanta, GA",
