@@ -17,7 +17,7 @@
   location: "Atlanta, GA",
   date: "Expected Graduation May 2026",
   [Concentrating in _Information Internetworks_ & _Intelligence_],
-  [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization, Computer Systems & Networking, Objects & Design, Linear Algebra, Discrete Math]
+  [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization, Computer Systems & Networking, Intro AI, Objects & Design, Linear Algebra, Discrete Math]
 )
 
 #resume_heading[Experience]
