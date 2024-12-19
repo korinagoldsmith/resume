@@ -52,14 +52,6 @@
   [Developing the digital twin platform for a sustainable bio-plastic bottling plant in the Bahamas.],
   [Leading software subgroup to create to develop business engagement platform using _Next.js_.],
 )
-#exp_item(
-  name: "Candles by Korina",
-  role: "Founder/CEO",
-  location: "Greensburg, PA",
-  date: "May 2020 - Present",
-  [Responsible for full business management: cost analysis, inventory, marketing, production, and customer service.],
-  [Earned Etsy bestseller title and 50+ 5-star reviews.],
-)
 
 #resume_heading[Projects]
 #project_item(
