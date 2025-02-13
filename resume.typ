@@ -71,8 +71,8 @@
   role: "Paid Program Facilitator",
   location: "Atlanta, GA",
   date: "Aug. 2024 - Present",
-  [Mentor 200+ students and manage 20+ team coaches, guiding teams in creating impactful year-long projects focused on solving United Nations SDGs.],
-  [Collaborate with program founders to continuously improve the curriculum and support team coaches.]
+  [Mentor 200+ students and oversee 20+ team coaches, guiding teams in creating impactful year-long projects focused on solving United Nations SDGs.],
+  [Collaborate with professors to continuously improve the curriculum and support team coaches.]
 )
 #exp_item(
   name: "Meet Your Neighbors Non-Profit Organization",
