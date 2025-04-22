@@ -16,8 +16,8 @@
   degree: "B.S. in Computer Science - GPA 4.0/4.0",
   location: "Atlanta, GA",
   date: "Expected Graduation May 2026",
-  [Concentrating in _Information Internetworks_ & _Intelligence_],
-  [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization, Computer Systems & Networking, Intro AI, Objects & Design, Linear Algebra, Discrete Math]
+  [Concentrating in _Information Internetworks_ & _Devices_],
+  [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization & Programming, Computer Systems & Networking, Intro to AI, Objects & Design, Linear Algebra, Discrete Math]
 )
 
 #resume_heading[Experience]
@@ -26,6 +26,7 @@
   role: "Software Engineer Intern",
   location: "Menlo Park, CA",
   date: "May. 2025 - Aug. 2025",
+  [Instagram monetization rendering platform team]
 )
 #exp_item(
   name: "Georgia Institute of Technology – College of Computing",
@@ -93,5 +94,5 @@
 )
 #skill_item(
   category: "Developer Tools",
-  skills: "GitHub, Docker, VS Code, IntelliJ, PyCharm, CLion",
+  skills: "GitHub, Docker, VS Code, IntelliJ, Postman, Jupyter Notebook",
 )
