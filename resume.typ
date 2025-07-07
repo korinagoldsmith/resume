@@ -16,7 +16,7 @@
   degree: "B.S. in Computer Science - GPA 4.0/4.0",
   location: "Atlanta, GA",
   date: "Expected Graduation December 2026",
-  [Concentrating in _Information Internetworks_ & _Devices_],
+  [Concentrating in _Information Internetworks_ & _Artificial Intelligence_],
   [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization & Programming, Computer Systems & Networking, Intro to AI, Objects & Design, Linear Algebra, Discrete Math]
 )
 
@@ -26,7 +26,8 @@
   role: "Software Engineer Intern",
   location: "Menlo Park, CA",
   date: "May. 2025 - Aug. 2025",
-  [Instagram monetization rendering platform team]
+  [Developed and deployed a canary testing system for Instagram ads to safely evaluate new ad rendering features, improving reliability and user experience for billions of users.],
+  [Collaborated with engineers to optimize ad rendering performance and precision, directly contributing to increased advertiser revenue and platform trust.],
 )
 #exp_item(
   name: "Georgia Institute of Technology – College of Computing",
@@ -86,7 +87,7 @@
 #resume_heading[Technical Skills]
 #skill_item(
   category: "Languages",
-  skills: "Java, Python, C, JavaScript, TypeScript, HTML, CSS",
+  skills: "Java, Python, C, JavaScript, TypeScript, HTML, CSS, PHP",
 )
 #skill_item(
   category: "Frameworks",
