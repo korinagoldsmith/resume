@@ -73,8 +73,7 @@
   role: "Paid Program Facilitator",
   location: "Atlanta, GA",
   date: "Aug. 2024 - Present",
-  [Mentor 200+ students and oversee 20+ team coaches, guiding teams in creating impactful year-long projects focused on solving United Nations SDGs.],
-  [Collaborate with professors to continuously improve the curriculum and support team coaches.]
+  [Mentor 200+ students and oversee 20+ team coaches while collaborating with professors to guide year-long UN SDG projects and enhance program curriculum.]
 )
 #exp_item(
   name: "Meet Your Neighbors Non-Profit Organization",
@@ -92,8 +91,4 @@
 #skill_item(
   category: "Frameworks",
   skills: "React, Next.js, Django, Flask, LangChain, Streamlit",
-)
-#skill_item(
-  category: "Developer Tools",
-  skills: "GitHub, Docker, VS Code, IntelliJ, Postman, Jupyter Notebook",
 )
