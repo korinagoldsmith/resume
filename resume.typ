@@ -16,15 +16,16 @@
   degree: "B.S. in Computer Science - GPA 4.0/4.0",
   location: "Atlanta, GA",
   date: "Expected Graduation December 2026",
-  [Concentrating in _Information Internetworks_ & _Artificial Intelligence_],
-  [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization & Programming, Computer Systems & Networking, Intro to AI, Objects & Design, Linear Algebra, Discrete Math],
+  [Concentrating in _Information Internetworks_ & _Devices_],
+  [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization & Programming, Computer Systems & Networking, Intro to AI, Objects & Design, Networking, Database Systems, ECE Design Lab, Mobile Ubiquitos Computing,Linear Algebra, Discrete Math],
 )
+
 *Technical Skills:* Java, Python, C, JavaScript, HTML, CSS, PHP | React, Django, Flask, LangChain
 
 #resume_heading[Experience]
 #exp_item(
   name: "Meta",
-  role: "Software Engineer Intern",
+  role: "Software Engineer Intern / Instagram Ads Rendering Platform Team",
   location: "Menlo Park, CA",
   date: "May. 2025 - Aug. 2025",
   [Developed and launched a critical testing system for Instagram Story ads that safeguards over *1/3 of Instagram’s revenue* by detecting issues before they reach production.],
@@ -80,6 +81,6 @@
   role: "Founder/CEO",
   location: "International/Remote",
   date: "May 2021 - Aug. 2023",
-  [Facilitated global cultural exchange by hosting events and service projects for *100+ members across 5 continents*.],
+  [Facilitated cultural exchange by hosting events and service projects for *100+ members across 5 continents*.],
   [Led meetings and managed team of *20*, website, social media, and secured sponsorships from _Hershey_ and _ACEI_.],
 )
