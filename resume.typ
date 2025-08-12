@@ -74,7 +74,7 @@
   name: "Georgia Tech Grand Challenges",
   role: "Paid Program Facilitator",
   location: "Atlanta, GA",
-  date: "Aug. 2024 - Present",
+  date: "Aug. 2024 - May 2025",
   [Mentor *200+ students* and oversee *20+ team coaches* while collaborating with professors to guide year-long UN SDG projects and enhance program curriculum.]
 )
 #exp_item(
