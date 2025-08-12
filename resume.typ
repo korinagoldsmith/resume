@@ -14,9 +14,10 @@
 #edu_item(
   name: "Georgia Institute of Technology",
   degree: "B.S. in Computer Science - GPA 4.0/4.0",
+  degree2: "M.S. in Computer Science & Artificial Intelligence",
   location: "Atlanta, GA",
-  date: "Expected Graduation December 2026",
-  [Concentrating in _Information Internetworks_ & _Devices_],
+  date: "May 2026",
+  date2: "May 2027",
   [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization & Programming, Computer Systems & Networking, Intro to AI, Objects & Design, Networking, Database Systems, ECE Design Lab, Mobile Ubiquitos Computing,Linear Algebra, Discrete Math],
 )
 

@@ -47,15 +47,19 @@
   location: "Foo, BA",
   date: "Aug. 1600 - May 1750",
   ..points,
+  degree2: "M.S. in Bullshit",
+  date2: "Aug. 1750 - May 1800",
 ) = {
   set block(above: 0.5em, below: 0.75em)
   pad(left: 0.5em, right: 0.5em, box[
     #grid(columns: (2fr, 1fr), align(left)[
       *#name* \
-      _#degree _
+      _#degree _ \
+      _#degree2 _
     ], align(right)[
       #location \
-      _#date _
+      _#date _ \
+      _#date2 _
     ])
     #list(..points)
   ])
