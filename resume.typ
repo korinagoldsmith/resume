@@ -18,7 +18,7 @@
   location: "Atlanta, GA",
   date: "May 2026",
   date2: "May 2027",
-  [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization & Programming, Computer Systems & Networking, Intro to AI, Objects & Design, Networking, Database Systems, ECE Design Lab, Mobile Ubiquitos Computing,Linear Algebra, Discrete Math],
+  [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization & Programming, Computer Systems & Networking, Intro to AI, Objects & Design, Networking, Database Systems, Procedural Content Generation, Linear Algebra, Discrete Math],
 )
 
 *Technical Skills:* Java, Python, C, JavaScript, HTML, CSS, PHP | React, Django, Flask, LangChain
