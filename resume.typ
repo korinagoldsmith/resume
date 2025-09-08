@@ -21,7 +21,7 @@
   [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization & Programming, Computer Systems & Networking, Intro to AI, Objects & Design, Networking, Database Systems, Procedural Content Generation, Linear Algebra, Discrete Math],
 )
 
-*Technical Skills:* Java, Python, C, JavaScript, HTML, CSS, PHP | React, Django, Flask, LangChain
+*Technical Skills:* Java, Python, C, JavaScript, HTML, CSS, PHP, SQL | React, Django, Flask, LangChain
 
 #resume_heading[Experience]
 #exp_item(
