@@ -43,7 +43,7 @@
 
 #let edu_item(
   name: "Sample University",
-  degree: "B.S in Computer Science",
+  degree: "B.S in Computer Science - 3.96 GPA",
   location: "Foo, BA",
   date: "Aug. 1600 - May 1750",
   ..points,
