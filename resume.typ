@@ -15,7 +15,9 @@
   name: "Georgia Institute of Technology",
   location: "Atlanta, GA",
   date: "May 2026",
-  [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization & Programming, Computer Systems & Networking, Intro to AI, Objects & Design, Networking, Database Systems, Procedural Content Generation, Linear Algebra, Discrete Math],
+  [Relevant Courses: Data Structures & Algorithms, Honors Algorithms, Computer Organization & Programming, 
+  Computer Systems & Networking, Intro to AI, Networking I & II, Database Systems, Computer Graphics, Objects & Design, 
+  Procedural Content Generation, Computer Audio, Linear Algebra, Discrete Math, Combinatorics, Statistics, Calculus I, II, & III],
 )
 
 *Technical Skills:* Java, Python, C, JavaScript, HTML, CSS, PHP, SQL | React, Django, Flask, LangChain
